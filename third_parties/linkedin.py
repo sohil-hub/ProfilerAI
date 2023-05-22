@@ -3,7 +3,7 @@ import os
 import requests
 
 
-def scrap_linkedin_profile(linkedin_profile_url: str):
+def scrape_linkedin_profile(linkedin_profile_url: str):
     api_endpoint = "https://nubela.co/proxycurl/api/v2/linkedin"
     api_key = os.environ.get("PROXYCURL_API_KEY")
 

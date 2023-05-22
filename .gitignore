@@ -131,3 +131,4 @@ dmypy.json
 # mac files
 .idea
 .idea/
+third_parties/demo_data/
