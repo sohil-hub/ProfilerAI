@@ -1,0 +1,186 @@
+{
+   "public_identifier":"harrison-chase-961287118",
+   "profile_pic_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/person/harrison-chase-961287118/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230522%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230522T101218Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=88dfb5d9a0a908e0118e59cb7cf6823293e45eeada21b8c961c2e61cc1f15047",
+   "background_cover_image_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/person/harrison-chase-961287118/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230522%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230522T101218Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3dc002a1bd0556e1a054a430698087cc1451845e3600cf660697275761eb1972",
+   "first_name":"Harrison",
+   "last_name":"Chase",
+   "full_name":"Harrison Chase",
+   "follower_count":2173,
+   "occupation":"Co-Founder and CEO at LangChain",
+   "headline":"Co-Founder and CEO at LangChain",
+   "summary":"{sports, machine learning, software engineering, statistics}",
+   "country":"US",
+   "country_full_name":"United States of America",
+   "city":"San Francisco",
+   "state":"California",
+   "experiences":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2023
+         },
+         "ends_at":"None",
+         "company":"LangChain",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/langchain",
+         "title":"Co-Founder and CEO",
+         "description":"None",
+         "location":"San Francisco Bay Area",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/langchain/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230522%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230522T101218Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=e46a771607dd19e25116f9508bbbcfe058624eb0d99fe55020245f5be282b1cb"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":10,
+            "year":2019
+         },
+         "ends_at":{
+            "day":31,
+            "month":1,
+            "year":2023
+         },
+         "company":"Robust Intelligence",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/robust-intelligence",
+         "title":"Machine Learning Engineer",
+         "description":"None",
+         "location":"None",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/robust-intelligence/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230522%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230522T101218Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=9228cf9a1ed2b7e624bfc722661a1b8d8facfcc8d1f12c9949861e292b95e40c"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":7,
+            "year":2017
+         },
+         "ends_at":{
+            "day":31,
+            "month":10,
+            "year":2019
+         },
+         "company":"Kensho Technologies",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/kensho-technologies",
+         "title":"Machine Learning Engineer",
+         "description":"None",
+         "location":"None",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/kensho-technologies/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230522%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230522T101218Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=2d010b5b27425589640fd1954b48eeab3dbb6ab602bd86251106fed312aa89be"
+      }
+   ],
+   "education":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2013
+         },
+         "ends_at":{
+            "day":31,
+            "month":12,
+            "year":2017
+         },
+         "field_of_study":"None",
+         "degree_name":"None",
+         "school":"Harvard University",
+         "school_linkedin_profile_url":"https://www.linkedin.com/school/harvard-university/",
+         "description":"None",
+         "logo_url":"https://media.licdn.com/dms/image/C4E0BAQF5t62bcL0e9g/company-logo_100_100/0/1519855919126?e=2147483647&v=beta&t=xQR2sj62cuK1N9Gc38PeaCYdYYlRO5Bx8ssZpQp3Pds",
+         "grade":"None",
+         "activities_and_societies":"None"
+      }
+   ],
+   "connections":500,
+   "recommendations":[
+      "Sam Shleifer\n\n      \n          \n          \n\n\n\n              \n                \n        \n              \n  \n\n      \n          I hired Harrison in 2016 at Kensho and that was the most impactful thing I did for the firm in my 3  years there. He is willing to do whatever it takes to help the team, from feature engineering/experiment running, to tricky backend tasks that he had no idea how to do and figured out. For example, he figured out how to cut down the memory overhead of our multiprocessing workloads by 5x just by reading about how multiprocessing works and profiling the code, most data scientists I have worked with do not go that deep into \"backend\" programming. \n\nHe is also very strong at prioritizing next steps and isolating bottlenecks. For example, he identified a moment when a model was good enough to put in front of users (I wanted to keep making it better) and reoriented me towards doing the data engineering necessary to get the model out the door.  His next step intuition is so good that even when I was meant to be managing him I would send him my plan for every day to get his feedback, and this ended up saving me a huge amount of time. Harrison is a very strong python programmer and a careful code reviewer — he will take the bugs that nobody wants to fix, even if he didn’t create them, or provide a useful solution concept to a less experienced programmer if he thinks they would benefit from implementing it themselves.\n\nFinally, Harrison has an uncanny ability to generate significant model improvements by looking model at errors and thinking of features that might explain those differences. This skill is not only relevant with Timeseries and text data, which we worked on at Kensho — we did a sports project together and it was exactly the same. In conclusion, Harrison knows exactly what features need to be built and consistently gets to a point where the model is good enough to productionize, and also has the skills to productionize and get feedback from users."
+   ],
+   "activities":[
+      {
+         "title":"Fascinated by apps like ChatGPT? Wish to experiment with models behind them? Even open-source/free models? Look no further... LangChain is the way to…",
+         "link":"https://www.linkedin.com/posts/harrison-chase-961287118_ai-nlp-chatgpt-activity-7065198100931366913-hrIl",
+         "activity_status":"Shared by Harrison Chase"
+      },
+      {
+         "title":"Today, we are thrilled to announce an initial integration of LangChain with Docugami. LangChain is one of the most popular frameworks for simplifying…",
+         "link":"https://www.linkedin.com/posts/harrison-chase-961287118_langchain-docugami-chat-with-your-own-activity-7064753439183962113-EPgz",
+         "activity_status":"Shared by Harrison Chase"
+      },
+      {
+         "title":"AI companies are using LangChain to supercharge their LLM apps. Here is a comprehensive guide of resources to build your LangChain + LLM…",
+         "link":"https://www.linkedin.com/posts/harrison-chase-961287118_generativeai-ai-activity-7064747208859922433-v7Ed",
+         "activity_status":"Shared by Harrison Chase"
+      },
+      {
+         "title":"RedisDays Virtual is just one week away, and we have a great line up of speakers.  By joining, you will also learn about what’s coming on the Redis…",
+         "link":"https://www.linkedin.com/posts/harrison-chase-961287118_redis-redisdays-realtimedata-activity-7064747166723960832-StYt",
+         "activity_status":"Shared by Harrison Chase"
+      },
+      {
+         "title":"Announcing UnusualGPT ( https://www.unusualgpt.com )🤖 🚀 Powered (and made stupid easy) by Qdrant❓ Ever wanted a chatbot to walk you through the…",
+         "link":"https://www.linkedin.com/posts/harrison-chase-961287118_announcing-unusualgpt-httpswwwunusualgptcom-activity-7064705126350950400-hSPX",
+         "activity_status":"Shared by Harrison Chase"
+      },
+      {
+         "title":"Attention all SF Tech Week enthusiasts! We’re excited to invite you to join Slack Fund, Salesforce Ventures, Cohere, Hearth AI, and LangChain at…",
+         "link":"https://www.linkedin.com/posts/harrison-chase-961287118_attention-all-sf-tech-week-enthusiasts-we-activity-7064311528740569088-9vBE",
+         "activity_status":"Shared by Harrison Chase"
+      },
+      {
+         "title":"The ChatGPT API has been powering knowledge retrieval apps since the day it launched, and it's been awesome to see the originality and speed they've…",
+         "link":"https://www.linkedin.com/posts/harrison-chase-961287118_the-chatgpt-api-has-been-powering-knowledge-activity-7064262406893408256-2esv",
+         "activity_status":"Shared by Harrison Chase"
+      },
+      {
+         "title":"The ChatGPT API has been powering knowledge retrieval apps since the day it launched, and it's been awesome to see the originality and speed they've…",
+         "link":"https://www.linkedin.com/posts/harrison-chase-961287118_the-chatgpt-api-has-been-powering-knowledge-activity-7064138075869757440-GIYl",
+         "activity_status":"Shared by Harrison Chase"
+      },
+      {
+         "title":"The SeleniumURLLoader from LangChain allows developers to fetch, load, and scrape a provided URL. This can be extremely useful in a variety of use…",
+         "link":"https://www.linkedin.com/posts/harrison-chase-961287118_langchain-javascriptdevelopers-pythondevelopers-activity-7063744481400942593-HvRZ",
+         "activity_status":"Shared by Harrison Chase"
+      },
+      {
+         "title":"Meet Jeeves, my gentleman... :)In the video, Jeeves finds Italian restaurants in DC, calls one to converse with the hostess and make a reservation,…",
+         "link":"https://www.linkedin.com/posts/harrison-chase-961287118_ai-activity-7062303788006576128-dWzx",
+         "activity_status":"Shared by Harrison Chase"
+      },
+      {
+         "title":"Power of Voice is here!!!Introducing the latest release of Sarathi AI, packed with exciting new features and improvements! Here's what's new:🎤…",
+         "link":"https://www.linkedin.com/posts/harrison-chase-961287118_httpswwwsarathiaicomapp-9-may-2023-activity-7062303737494589440-IKuH",
+         "activity_status":"Shared by Harrison Chase"
+      },
+      {
+         "title":"🚀 Just published my first blog about: getting answers from your PDF with Langchain, OpenAI and Streamlit. It's a streamlit app in which you can…",
+         "link":"https://www.linkedin.com/posts/harrison-chase-961287118_langchain-llm-openai-activity-7062303683895562241-UjKp",
+         "activity_status":"Shared by Harrison Chase"
+      },
+      {
+         "title":"Two lines of code is all it takes for you to create a multilingual chatbot with Langchain that allows you to chat with your own documents. What a…",
+         "link":"https://www.linkedin.com/posts/harrison-chase-961287118_langchain-openai-activity-7062303518002475008-U4Vk",
+         "activity_status":"Shared by Harrison Chase"
+      },
+      {
+         "title":"Two lines of code is all it takes for you to create a multilingual chatbot with Langchain that allows you to chat with your own documents. What a…",
+         "link":"https://www.linkedin.com/posts/harrison-chase-961287118_langchain-openai-activity-7061203405985234944-VX8C",
+         "activity_status":"Shared by Harrison Chase"
+      },
+      {
+         "title":"🚀 Just published my debut AWS blog on creating cutting-edge Generative AI applications with Amazon Kendra, LLM & Langchain! 🌟Discover how to…",
+         "link":"https://www.linkedin.com/posts/harrison-chase-961287118_quickly-build-high-accuracy-generative-ai-activity-7059807354166386689-AoI_",
+         "activity_status":"Shared by Harrison Chase"
+      },
+      {
+         "title":"I'm so SO excited to be joining forces with @jasonyuandesign!!!Jason has always thought years ahead of his time. I can't think of anyone more well…",
+         "link":"https://www.linkedin.com/posts/sjwhitmore_im-so-so-excited-to-be-joining-forces-with-activity-7058947634178228226-4xgA",
+         "activity_status":"Liked by Harrison Chase"
+      },
+      {
+         "title":"🚀 Excited to share my latest creation: a Semantic Search Chatbot for Telegram Groups! 🤖🔍 The Problem:We've all been there - asking a question…",
+         "link":"https://www.linkedin.com/posts/harrison-chase-961287118_datascience-telegram-chatbot-activity-7059414455268376576-q5cZ",
+         "activity_status":"Shared by Harrison Chase"
+      },
+      {
+         "title":"Was AWESOME to work with Colin Jarvis on this LangChain x OpenAI cookbook example!",
+         "link":"https://www.linkedin.com/posts/harrison-chase-961287118_github-openaiopenai-cookbook-examples-activity-7059414368781807616-Jxml",
+         "activity_status":"Shared by Harrison Chase"
+      }
+   ]
+}

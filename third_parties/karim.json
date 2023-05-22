@@ -1,0 +1,612 @@
+{
+   "public_identifier":"karimkhanp",
+   "profile_pic_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/person/karimkhanp/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230522%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230522T095451Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2a37922900af8d57c2d186e0339e9cfab8b45fdf048cb225569fec74b669d655",
+   "background_cover_image_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/person/karimkhanp/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230522%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230522T095451Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8932da2da0d3afea190309d94688fd5f912122e8de9850751c0173c6c510c58d",
+   "first_name":"Mohammed Karimkhan",
+   "last_name":"Pathan",
+   "full_name":"Mohammed Karimkhan Pathan",
+   "follower_count":5080,
+   "occupation":"AI Team Lead at Venturit",
+   "headline":"AI Team Lead | Sr Data scientist | Data science consultant",
+   "summary":"I believe the more you sweat during What and Why ( understanding and defining) while solving AI problems, the less you bleed during How ( Development and Execution).\n\nMachine learning and Artificial intelligence (AI) professional with 9+ years of Industry experience in Deep Learning, Data Science, Business Analytics, Management Consulting, Product Management and Software development. I'm currently leading AI Team at Venturit Inc, a Michigan-based AI company. This team is responsible for client AI projects, Company AI products and building innovative AI case studies. \n\nI've worn many hats during my tenure of a professional career -  Co-founder, Consultant, Product Owner, Team Lead, Analyst, Innovation Expert, and Software Engineer. As a result, I have a unique ability to adapt myself according to any situation and requirement.\n\nI can help organisations with AI transformation. Convert a Business idea into a successful AI product. \n\nNow, with an amalgamation of my technical and managerial capabilities along with my past experience, I'm confident to navigate complex challenges. But my actual experience has taught me that my professional value boils down to the following:\n\n\n- I believe in work ethics, responsibility, team spirit\n- I love to take challenges and can work in any circumstance, how hard it can be.\n- It doesn't matter who'll get the credit; I only try to win.\n- I love automating things using AI/ML.\n- Data science and AI are fun for me. If you have anything about this, I'm available 24/7.\n- I'm calm and composed.\n- I have new ideas and know how to execute them.\n- Make mistakes faster, correct them and never repeat them.\n- It's a team who wins, not you.\n\nTechnical & Functional capabilities:\nBusiness Analytics, Statistical Analysis and Data Mining, Consulting, Growth hacking, Data Visualization, Machine Learning/Artificial Intelligence (Structured & unstructured - Text, Image & Video, Signal), Customer & People Analytics, A Product Development\n\nTechnology strongholds:\nPython, Sklearn, NLTK, Spacy, TensorFlow, Keras, Cloud ( AWS, AZURE, GCP), PyTorch, Open source ML, DL and NLP library.",
+   "country":"IN",
+   "country_full_name":"India",
+   "city":"Pune",
+   "state":"Maharashtra",
+   "experiences":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":2,
+            "year":2020
+         },
+         "ends_at":"None",
+         "company":"Venturit",
+         "company_linkedin_profile_url":"https://in.linkedin.com/company/venturit-inc-",
+         "title":"AI Team Lead",
+         "description":"None",
+         "location":"Pune, Maharashtra, India",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/venturit-inc-/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230522%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230522T095451Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8cd3008b628592e09379b183debae01eadcf8bc027be9860b56e7c63ef662f24"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":2,
+            "year":2019
+         },
+         "ends_at":"None",
+         "company":"Venturit",
+         "company_linkedin_profile_url":"https://in.linkedin.com/company/venturit-inc-",
+         "title":"Data Scientist",
+         "description":"Working closely with CEO to convert various business ideas into reality. Developing a Proof of concept on various AI use cases to generate new business leads. Working very closely with the Senior team for complete AI Transformation. \n\nBuild a state of art Arrhythmia prediction Machine learning model with a 99% sensitivity score. Our model is competing with Apple Watch and under USFDA approval process.",
+         "location":"Pune Area, India",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/venturit-inc-/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230522%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230522T095451Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8cd3008b628592e09379b183debae01eadcf8bc027be9860b56e7c63ef662f24"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":12,
+            "year":2019
+         },
+         "ends_at":{
+            "day":28,
+            "month":2,
+            "year":2023
+         },
+         "company":"Rayon",
+         "company_linkedin_profile_url":"https://in.linkedin.com/company/therayonapp",
+         "title":"Co-Founder",
+         "description":"Rayon is your friendly radiation expert\nRF radiation sources like cell phones, WiFi routers, and Bluetooth are a part of our way of life today, and it is hard to track our exposure. Its proprietary algorithm learns from your past recording of symptoms based on your level of exposure and duration. \n\nNow you can track your exposure to RF radiation and symptoms with Rayon.",
+         "location":"East Lansing, Michigan, United States",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/therayonapp/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230522%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230522T095451Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=bcc0dabbbb63ea89cdd18c130b229dbd9b35218bba18cdcc23cde438ae7a5178"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2018
+         },
+         "ends_at":{
+            "day":31,
+            "month":12,
+            "year":2018
+         },
+         "company":"Numer8 Analytics",
+         "company_linkedin_profile_url":"https://in.linkedin.com/company/numer8",
+         "title":"Consulting Data Scientist",
+         "description":"Friend Venture on Disaster control and Global Hunger Removal (Selected by United Nations in World Food Program). Sharing my knowledge and views as and when required!",
+         "location":"Mumbai Area, India",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/numer8/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230522%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230522T095451Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=bd93e472431d0808d00da9913d9d847442f4eedc7ac84b2a0d2f08b93a0009a7"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":2,
+            "year":2016
+         },
+         "ends_at":{
+            "day":28,
+            "month":2,
+            "year":2019
+         },
+         "company":"Predict Disease - Artificial Intelligence based Healthcare Assistant",
+         "company_linkedin_profile_url":"https://in.linkedin.com/company/predictdisease",
+         "title":"Co-Founder and Sr Data Scientist",
+         "description":"Predict Disease is a healthcare analytics platform that is driven by artificial intelligence and machine learning, to assist patients and primary care physicians by measuring the potential risk of any chronic disease that starts with minor symptoms. The platform leverages data from lifestyle activities, social media/website forums, research papers, medical articles and outcomes, and family history, matching these with known signs/symptoms and other demographic characteristics for the early detection of the chronic disease. The main objective is to identify high-risk patients that are more likely to develop the chronic disease during regular body checkups/primary care visits and then help primary care physicians to provide insights and personalized recommendations on reducing the risk and preventing or delaying the disease.\n            \n\n    \n    \n\n    \n        Show less",
+         "location":"New York, United States",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/predictdisease/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230522%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230522T095451Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=c5d49a5a2ed9449d038970761de5e036f8a33190bd176c57c4b859bb2de5b83d"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":8,
+            "year":2015
+         },
+         "ends_at":{
+            "day":28,
+            "month":2,
+            "year":2019
+         },
+         "company":"DataMetica Solutions Private Limited",
+         "company_linkedin_profile_url":"https://in.linkedin.com/company/datametica",
+         "title":"Data scientist",
+         "description":"http://www.bseindia.com/markets/marketinfo/DispMediaRels.aspx?page=f6b01a35-81d8-49a8-9d19-1e1bb180e42e\n\nWorking with the seventh largest stock exchange in the world! Working to mitigate manually monitoring print and social media to identify suspicious news and rumors that may have an impact on the price and/or volume of securities listed on its platform.\n\nWe built a statistical model through training of historical web articles, manually tagged or untagged by data scientists and business users. The model uses NLP based artificial intelligence to identify rumors. , Covered 25+ websites and 300+ web source of print media and Social media platforms.\n\n            \n\n    \n    \n\n    \n        Show less",
+         "location":"Pune Area, India",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/datametica/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230522%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230522T095451Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=9cd0b74884143add8b1433ee65d9302fc044a895b04c4d7353a3b3bcc69e231a"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2015
+         },
+         "ends_at":{
+            "day":29,
+            "month":2,
+            "year":2016
+         },
+         "company":"Weekend Startup",
+         "company_linkedin_profile_url":"None",
+         "title":"Data scientist",
+         "description":"Doing great stuff on various data projects in free time!",
+         "location":"None",
+         "logo_url":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":6,
+            "year":2011
+         },
+         "ends_at":{
+            "day":31,
+            "month":12,
+            "year":2011
+         },
+         "company":"U. V. Patel College ofEngineering",
+         "company_linkedin_profile_url":"None",
+         "title":"Assistant professor",
+         "description":"Worked as lecturer and project guide for B.Tech students.",
+         "location":"Mahesana",
+         "logo_url":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":8,
+            "year":2014
+         },
+         "ends_at":{
+            "day":31,
+            "month":8,
+            "year":2015
+         },
+         "company":"S.S.UserWorks Technologies Pvt. Ltd.",
+         "company_linkedin_profile_url":"https://in.linkedin.com/company/s-s-userworks-technologies-pvt--ltd-",
+         "title":"NLP - Software Engineer  ( Now E42.ai )",
+         "description":"Handling Bigdata, Natural Language Processing (NLP), Machine learning stuff for NLP based auto answering system. System is NLP based search engine, which is aimed to provide instant answer for any search query made by user.\n\nLEA (LightAnswers & Expert Advice) uses Natural Language Processing and AI Bots to figure out your text chat/questions and process it to search for precise usable answers and advice. At times if the information you are looking for is not available (from any reliable source) LEA contacts real world experts to help you. You can even chat with the experts to drill deeper till you get what you are looking for\n\nWorked on different modules like query analysis, query correction, Domain classification, NER detection, subject object detection, answer type detection, query breaking, coreference detection.\n            \n\n    \n    \n\n    \n        Show less",
+         "location":"Pune Area, India",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/s-s-userworks-technologies-pvt--ltd-/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230522%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230522T095451Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=318a97fc9ef3299994c8e9647841fa8cf31bf7bb27070f4c236afc37d9cce3cc"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":7,
+            "year":2012
+         },
+         "ends_at":{
+            "day":30,
+            "month":6,
+            "year":2014
+         },
+         "company":"NIRMA University",
+         "company_linkedin_profile_url":"https://in.linkedin.com/company/nirma-university",
+         "title":"M.Tech student",
+         "description":"Working on Sentiment Analysis based project. Getting passionate for IT developments!",
+         "location":"Ahmedabad Area, India",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/nirma-university/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230522%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230522T095451Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=33a1871337d7a34b7b06b6b65d51630696c928ddafd720d73ca5d57f73718898"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2011
+         },
+         "ends_at":{
+            "day":30,
+            "month":6,
+            "year":2011
+         },
+         "company":"Physical Research Laboratory",
+         "company_linkedin_profile_url":"https://in.linkedin.com/company/physical-research-laboratory",
+         "title":"Project trainee",
+         "description":"Working on telescope automation system",
+         "location":"None",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/physical-research-laboratory/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230522%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230522T095451Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=1b52cd0ae4a4fbeac60502b3adbac0ab4c62a0ee1bec18f47e3a4dfe95f84a7c"
+      }
+   ],
+   "education":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2012
+         },
+         "ends_at":{
+            "day":31,
+            "month":12,
+            "year":2014
+         },
+         "field_of_study":"Computer Science and Engineering",
+         "degree_name":"Master of Technology (M.Tech.)",
+         "school":"NIRMA UNIVERSITY",
+         "school_linkedin_profile_url":"https://in.linkedin.com/school/nirma-university/",
+         "description":"Sentiment analysis and data processing - Performing sentiment analysis of page content of any URL entered by user. Getting trending articles from twitter and performing sentiment analysis for the same.\n\nCloud Based Volunteer Grid System: This project is aimed to bring commercialization in the world of Volunteer grid system. Developed Map Reduce library using Google’s Go language for this project(Functioning). This project was a part of UnisysCloudComputing 4.0 event organized by Unisys. \n\nRadioHACK Application: Currently I am working on Software Defined Radio based application. Where I am capturing Radio signal and performing reengineering process on it using GNU Radio toolkit.\n\nCluster computing project: Architecting system to achieve Super computer like power by amalgamating idle power of all system in different computer labs in our college using concept of Cluster\n            \n\n    \n    \n\n    \n        Show less",
+         "logo_url":"https://media.licdn.com/dms/image/C560BAQErRQRiNVKuhg/company-logo_100_100/0/1519865799927?e=2147483647&v=beta&t=oOL7VOt5CGPxIYzg5PkSfNzAvw6DbCClr5eHKFEwlr4",
+         "grade":"7.7 CPI",
+         "activities_and_societies":"Software development, optimization, Research and development."
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2007
+         },
+         "ends_at":{
+            "day":31,
+            "month":12,
+            "year":2011
+         },
+         "field_of_study":"Software development",
+         "degree_name":"B.Tech",
+         "school":"Ganpat University",
+         "school_linkedin_profile_url":"https://in.linkedin.com/school/ganpat-university/",
+         "description":"Online Education and Examination\n\n\tDuration                   :            5th Semester\n\tTechnology\t\t :\t    ASP.net\n\nThis project is based on giving different examination online and getting quick result as well study online and get material related to exam.\n\nPacket Sniffing and analyzing tool\n\n\tDuration \t\t :            7th Semester \n\tTechnology \t\t :            JAVA\n\nThis tool is based on sniffing different types of packets from network and analyzing them .\n\n\n\n\n8th Semester Training :\n\nPhysical Research Laboratory , \nwww.prl.res.in \nTitle :  \t\tAutomated Telescope System \n\t\t\tDuration                    :\t8th Semester\n\t\tTechnology \t\t :\tC , C++ , Visual C , C++\n\nDescription  : This project is based on auto guiding system of telescope in which interfacing between to software is the main purpose . One software is in visual c++ and other in c and c++ language .\n            \n\n    \n    \n\n    \n        Show less",
+         "logo_url":"https://media.licdn.com/dms/image/C510BAQF_B1xoCofXaA/company-logo_100_100/0/1577900788836?e=2147483647&v=beta&t=GNo60RKWIwHGfYzA4v33FbCVB9plSNpcboWnQEpJRqM",
+         "grade":"None",
+         "activities_and_societies":"Software development , web development , making friendship"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2005
+         },
+         "ends_at":{
+            "day":31,
+            "month":12,
+            "year":2007
+         },
+         "field_of_study":"Mathamatics,science",
+         "degree_name":"SSC,HSC",
+         "school":"Gujarat University",
+         "school_linkedin_profile_url":"https://in.linkedin.com/school/gujarat-university/",
+         "description":"None",
+         "logo_url":"https://media.licdn.com/dms/image/C4D0BAQFO-BHBuDhZKw/company-logo_100_100/0/1669369001486?e=2147483647&v=beta&t=RpdMEqYjik09yi0K2aiQfyvy14C8o24szs1_R7jkG_g",
+         "grade":"None",
+         "activities_and_societies":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2004
+         },
+         "ends_at":{
+            "day":31,
+            "month":12,
+            "year":2005
+         },
+         "field_of_study":"Mathamatics,science",
+         "degree_name":"SSC",
+         "school":"F.D.Hign school",
+         "school_linkedin_profile_url":"None",
+         "description":"None",
+         "logo_url":"None",
+         "grade":"None",
+         "activities_and_societies":"None"
+      }
+   ],
+   "languages":[
+      "English"
+   ],
+   "accomplishment_projects":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":7,
+            "year":2017
+         },
+         "ends_at":"None",
+         "title":"Machine Translation (Hindi < - > English  Translation)",
+         "description":"Machine translation, sometimes referred to by the abbreviation MT is a sub-field of computational linguistics that investigates the use of software to translate text or speech from one language to another.\n\nWe are trying to build our own MT tool for Asia's biggest Stock Exchange to monitor regional news which influence the stock price.\n\nWe are using Neural machine translation (NMT), which is an approach to machine translation that uses a large neural network. It departs from phrase-based statistical translation approaches that use separately engineered subcomponents. Google and Microsoft translation services now use NMT. Google uses Google Neural Machine Translation (GNMT) in preference to its previous statistical methods.\n            \n\n    \n    \n\n    \n        Show less",
+         "url":"http://opennmt.net/"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":8,
+            "year":2015
+         },
+         "ends_at":"None",
+         "title":"Data analytics-based, Artificial Intelligence mechanism to detect rumours in Stock market",
+         "description":"This is Data analytics-based, artificial intelligence mechanism that tracks the performance of listed companies in relation to news about those companies on 30+ digital media platform and social media platforms, like Twitter and Facebook\n\nThe primary objective of the verification is that the mechanism will detect and mitigate potential risks of market manipulation, rumour, and reduce information asymmetry arising from digital media platforms, including from social media.\n\nWe built a statistical model through training of historical web articles, manually tagged or untagged by data scientists and business users. The model uses NLP based artificial intelligence to identify rumors. It is enriched with 5K+ company names using the n-gram technique, filtration of 80 suspected and 20 rejection keywords, 25+ websites and 300+ web source integrations. This is a continuous process, and involves adding the company list, keywords and web links slowly and steadily to ensure maximum accuracy. \n            \n\n    \n    \n\n    \n        Show less",
+         "url":"https://www.datametica.com/social-media-analytics/"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":8,
+            "year":2014
+         },
+         "ends_at":"None",
+         "title":"Auto answering system",
+         "description":"Aim is to process large dataset and creating auto answering which should provide exact expected answer in instant.\nMain tasks -\n\nData classification, Domain detection, Query understanding, \nWord sense disambiguation, Co-reference resolution, NER+Focus+Answer type detection, Answer processing \n\nKey tools and technology - \n- Natural language processing (NLP), Machine learning \n- Python , pylinkgrammar, swi-prolog\n- Hadoop, Apache lucene, solr and other helping apache packages\n- NLTK, scikit learn, Stanford nlp package (pos, ner, co-reference resolution, sentence parsing etc)\n\n            \n\n    \n    \n\n    \n        Show less",
+         "url":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":8,
+            "year":2014
+         },
+         "ends_at":"None",
+         "title":"User input classification for NLP based Auto answering system",
+         "description":"Worked in team for developing domain classification system to identify domain of input query. This classification narrow down the space of answering user's question. \n\nSystem uses machine learning classifier with large dbpedia datasets along with other curated datasets.",
+         "url":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":6,
+            "year":2013
+         },
+         "ends_at":{
+            "day":31,
+            "month":5,
+            "year":2014
+         },
+         "title":"Sentiment Analysis on Social media",
+         "description":"Sentiment analysis based product which identify social media trends from Twitter for various category like Business, News, Sports, Politics, Tourism, Healthcare and perform sentiment analysis on trending content.",
+         "url":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2013
+         },
+         "ends_at":{
+            "day":31,
+            "month":12,
+            "year":2013
+         },
+         "title":"Software Defined Radio for FM signals",
+         "description":"Creating the  Software Defined Radio(SDR) which listen the live signal, process it and give the output in form of audio, video or text format.",
+         "url":"https://github.com/karimkhanp/FM_receiver_SDR_Application"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2013
+         },
+         "ends_at":{
+            "day":30,
+            "month":4,
+            "year":2013
+         },
+         "title":"Bewaulf Cluster development",
+         "description":"Developing cluster using which we can share high loaded task among multiple system to improve the speedup and performance.",
+         "url":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2013
+         },
+         "ends_at":{
+            "day":30,
+            "month":4,
+            "year":2013
+         },
+         "title":"Character recognization using Neural networks",
+         "description":"Developing browser based Character recolonization system.",
+         "url":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2012
+         },
+         "ends_at":{
+            "day":28,
+            "month":2,
+            "year":2013
+         },
+         "title":"Open Volunteer Grid(OVG) system",
+         "description":"This project is aimed to bring commercialization in the work of Volunteer Grid system. Currently available Volunteer systems are purely research and academia based, like B.O.I.N.C.\nOur system's goal is to attract volunteer CPU power contributor from all over the world and they get paid as per the idle CPU power they have contributed.",
+         "url":"https://github.com/karimkhanp/hagoop"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2011
+         },
+         "ends_at":{
+            "day":30,
+            "month":6,
+            "year":2011
+         },
+         "title":"Telescope Auto Guiding system",
+         "description":"This project was aimed to provide auto guiding system for windows based machine for the telescope located at Mount Abu Infrared Observatory of Indian Astronomical Department of Physical Research Laboratory.",
+         "url":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2010
+         },
+         "ends_at":{
+            "day":31,
+            "month":5,
+            "year":2010
+         },
+         "title":"Packet sniffer and analyzer",
+         "description":"This software is based on sniffing different types of network packets like TCP, UDP, ICMP, ARP from network. Extracting all the filed of these packets and getting network information. This project was implemented using core JAVA.",
+         "url":"None"
+      },
+      {
+         "starts_at":"None",
+         "ends_at":"None",
+         "title":"AI based Auto answering system for Texas Education Consultative Service",
+         "description":"Developing AI based system which can handle FAQs and similar question related to Educational service in Texas which is providing fully-integrated solutions that enhance educational outcomes by providing reliable information, improved processes and superior compliance with local, state, and federal guidelines.\n\nUsing Machine learning, NLP concepts, FuzzyWuzzy string matching algorithm, Artificial Intelligence Markup Language (AIML) for processing the question and getting answer.",
+         "url":"None"
+      },
+      {
+         "starts_at":"None",
+         "ends_at":"None",
+         "title":"Andoid app development",
+         "description":"Freelancing projects.",
+         "url":"None"
+      }
+   ],
+   "certifications":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":7,
+            "year":2021
+         },
+         "ends_at":"None",
+         "name":"Deep Learning Specialization",
+         "license_number":"A9WKTPLBGZYN",
+         "display_source":"www.coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/account/accomplishments/specialization/certificate/A9WKTPLBGZYN"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":7,
+            "year":2021
+         },
+         "ends_at":"None",
+         "name":"Sequence Models",
+         "license_number":"MLATRXJMGL7Q",
+         "display_source":"www.coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/account/accomplishments/certificate/MLATRXJMGL7Q"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":5,
+            "year":2021
+         },
+         "ends_at":"None",
+         "name":"Convolutional Neural Networks",
+         "license_number":"ANK3KPQ8KMDT",
+         "display_source":"www.coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/account/accomplishments/certificate/ANK3KPQ8KMDT"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2021
+         },
+         "ends_at":"None",
+         "name":"Structuring Machine Learning Projects",
+         "license_number":"2NDFP7MK2XGM",
+         "display_source":"www.coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/account/accomplishments/certificate/2NDFP7MK2XGM"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2020
+         },
+         "ends_at":"None",
+         "name":"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
+         "license_number":"VHXCQPFP2W3V",
+         "display_source":"www.coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/account/accomplishments/certificate/VHXCQPFP2W3V"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":6,
+            "year":2020
+         },
+         "ends_at":"None",
+         "name":"Neural Networks and Deep Learning",
+         "license_number":"SZZGMAVW36P4",
+         "display_source":"www.coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/account/accomplishments/certificate/SZZGMAVW36P4"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":10,
+            "year":2015
+         },
+         "ends_at":"None",
+         "name":"Analyzing Big Data with a Concept IBM Watson and UIMA",
+         "license_number":"None",
+         "display_source":"www.dropbox.com",
+         "authority":"Big Data University",
+         "url":"https://www.dropbox.com/s/0dvjpebflfh23mb/IBM%20Watson%20and%20UIMA.pdf?dl=0"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2014
+         },
+         "ends_at":"None",
+         "name":"R Programming",
+         "license_number":"None",
+         "display_source":"www.coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/course/rprog"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2014
+         },
+         "ends_at":"None",
+         "name":"Statistical Inference",
+         "license_number":"None",
+         "display_source":"www.coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/course/statinference"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":6,
+            "year":2014
+         },
+         "ends_at":"None",
+         "name":"The Data Scientist’s Toolbox",
+         "license_number":"None",
+         "display_source":"www.coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/course/datascitoolbox"
+      }
+   ],
+   "connections":500,
+   "recommendations":[
+      "Sandip Brahmachary\n\n      \n          \n          \n\n\n\n              \n                \n        \n              \n  \n\n      \n          Karim has sound knowledge in Machine learning technologies. He likes to accept new challenges. He is a good team player, pro-active in nature. Karim is devoted and is an asset for any team and Organization.",
+      "Adam Patrick\n\n      \n          \n          \n\n\n\n              \n                \n        \n              \n  \n\n      \n          Karim provided a great service to help us build our AI tool and delivered on time and within budget. I highly recommend his services."
+   ],
+   "social_networking_services":[
+      {
+         "service":"facebook",
+         "canonical_url":"facebook.com/1660546353",
+         "internal_id":"1660546353"
+      },
+      {
+         "service":"twitter",
+         "canonical_url":"twitter.com/karimkhan_it",
+         "internal_id":"None"
+      },
+      {
+         "service":"quora",
+         "canonical_url":"quora.com/pathan-karimkhan",
+         "internal_id":"None"
+      }
+   ]
+}
