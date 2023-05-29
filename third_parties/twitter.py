@@ -27,9 +27,11 @@ def scrape_user_tweets(username, num_tweets=20):
 
     for tweet in tweets:
         if "RT @" not in tweet.text and not tweet.text.startswith("@"):
-            tweet_dict = {"time_posted": str(
-                datetime.now(timezone.utc) - tweet.created_at
-            ), "text": tweet.text, "url": f"https://twitter.com/{tweet.user.screen_name}/status/{tweet.id}"}
+            tweet_dict = {
+                "time_posted": str(datetime.now(timezone.utc) - tweet.created_at),
+                "text": tweet.text,
+                "url": f"https://twitter.com/{tweet.user.screen_name}/status/{tweet.id}",
+            }
             tweet_list.append(tweet_dict)
 
     return tweet_list
