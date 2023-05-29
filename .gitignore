@@ -127,8 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# mac files
-.idea
-.idea/
-third_parties/demo_data/
